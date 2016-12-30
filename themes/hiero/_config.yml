@@ -8,7 +8,7 @@ menu:
   Archives: archives
   Categories: categories
   Tags: tags
-  About: http://www.baidu.com
+  About: http://wendaolib.xyz:3000
 rss: /atom.xml
 
 since: 2013
