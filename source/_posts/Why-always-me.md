@@ -2,6 +2,7 @@
 title: 随想
 date: 2016-12-29 15:34:45
 tags: 杂谈
+categories: complain
 ---
 
 ## 算法
